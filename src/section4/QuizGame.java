@@ -5,7 +5,7 @@ public class QuizGame {
 	public static void main(String[] args) {
 		
 		// 1.  Create a variable to hold the user's score 
-		
+	
 		// 2.  Ask the user a question 
 		
 		// 3.  Use an if statement to check if their answer is correct
